@@ -1,9 +1,7 @@
-
 <h1 align="left">Hello, hi 👋</h1>
 
 ###
-
-<p align="left">My name is Ayren Villet and I am currently a 3rd year IT Student at the Cape Peninsula University of Technology, with a strong interest in software development and problem solving.I am passionate about using technology to solve real-world problems and continuously improving my technical and analytical abilities.<br><br>
+<p align="left">My name is Ayren Villet and I am currently a 3rd year IT Student at the Cape Peninsula University of Technology, with a strong interest in software development and problem solving.I am passionate about using technology to solve real-world problems and continuously improving my technical and analytical abilities. You can reach me on my LinkedIn account<br><br>
 </p>
 
 ###
