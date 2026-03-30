@@ -1,16 +1,16 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello 👋</h1>
 
 ###
 
-<p align="left">My name is Ayren Villet and I am currently a 3rd year IT Student at the Cape Peninsula University of Technology, from Cape Town, South Africa</p>
+<p align="left">My name is Ayren Villet and I am currently a 3rd year IT Student at the Cape Peninsula University of Technology, with a strong interest in software development and problem solving.I am passionate about using technology to solve real-world problems and continuously improving my technical and analytical abilities.<br><br>
+</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-
 <p align="left">  <br>📚 I'm currently learning Java, JavaScript, Github and Software Development fundamentals <br> 🚀 I'm interested in becoming a full-stack developer in the future<br>
 🎯 My goal is to build useful applications and grow my coding skills every day<br>
 🧠 I enjoy figuring out how systems work and improving my problem-solving skills<br>🎲 Fun fact: I fix one bug and create three more 😆</p>
