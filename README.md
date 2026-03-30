@@ -12,7 +12,7 @@ I am currently a 3rd year student at the Cape Peninsula University of Technology
 
 ## Education
 
-**Diploma in Information Technology**  
+**Diploma in Information Technology** 
 Cape Peninsula University of Technology  
 2024 – Present  
 
@@ -76,13 +76,13 @@ March 2022 – December 2022
 ## References
 
 ### Grace Present  
-- Occupation: Librarian  
-- Company: Theewaterskloof  
-- Email: grace.present44@gmail.com  
-- Contact: 0742294099  
+- 👩‍💼Occupation: Librarian  
+- 📍Company: Theewaterskloof  
+- 📧Email: grace.present44@gmail.com  
+- 📞Contact: 0742294099  
 
 ### Courtney Moodley  
-- Occupation: Mentor  
-- Company: YearBeyond  
-- Email: admin@yearbeyond.org  
-- Contact: 0631506103  
+- 👩‍💼Occupation: Mentor  
+- 📍Company: YearBeyond  
+- 📧Email: admin@yearbeyond.org  
+- 📞Contact: 0631506103  
