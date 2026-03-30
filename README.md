@@ -14,7 +14,17 @@
 <p align="left">👩‍💻 I code with IntelliJ  <br>📚 I'm currently learning Java, JavaScript, Github and Software Development<br>🎯 Goals: My goal is to become a professional developer and build real-world applications<br>🎲 Fun fact: I fix one bug and create three more 😆</p>
 
 ###
+<h2 align="left">I code with</h2>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
 
 
   
