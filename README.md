@@ -1,32 +1,88 @@
-<h1 align="left">Hello, hi 👋</h1>
+# Ayren Villet  
+📍 Cape Town, South Africa  
+📧 223120030@mycput.ac.za  
+📞 0732976839  
 
-###
-<p align="left">My name is Ayren Villet and I am currently a 3rd year IT Student at the Cape Peninsula University of Technology. I have strong interests in software development and problem solving. I am passionate about using technology to solve real-world problems and continuously improving my technical and analytical abilities. You can reach me on my LinkedIn account ( https://www.linkedin.com/in/ayren-villet-42506028b/)<br><br>
-</p>
+---
 
-###
-<h2 align="left">About me</h2>
+## Professional Overview
+I am currently a 3rd year student at the Cape Peninsula University of Technology pursuing a Diploma in ICT: Applications Development. I enjoy problem-solving and working as part of a team. I am adaptable and eager to expand my skills and knowledge to become a valuable asset to any organization.
 
-###
+---
 
-<p align="left">  <br>📚 I'm currently learning Java, JavaScript, Github and Software Development fundamentals <br> 🚀 I'm interested in becoming a full-stack developer in the future<br>
-🎯 My goal is to build useful applications and grow my coding skills every day<br>
-🧠 I enjoy figuring out how systems work and improving my problem-solving skills<br>🎲 Fun fact: I fix one bug and create three more 😆</p>
+## Education
 
-###
-<h2 align="left"> 👩‍💻 I code with</h2>
+**Diploma in Information Technology**  
+Cape Peninsula University of Technology  
+2024 – Present  
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+**National Senior Certificate (Grade 12)**  
+Groenberg Secondary School  
+2021  
 
-###
+---
 
+## Skills
 
-  
+### Technical Skills
+- Java  
+- SQL  
+- UX/UI Design  
+- Microsoft Office  
+
+### Soft Skills
+- Communication  
+- Teamwork  
+- Time Management  
+- Leadership  
+- Adaptability  
+- Project Management  
+
+---
+
+## Academic Projects
+
+### Student Accommodation Mobile App
+- Developed a mobile application in a group setting for student accommodation applications  
+- Focused on usability, data handling, and practical functionality  
+
+### Student Project Registration Database
+- Designed a database system for student project registration and deregistration  
+- Created tables, relationships, and basic queries for data management  
+
+---
+
+## Work Experience
+
+### IT Assistant  
+**Apex Primary School**  
+February 2023 – September 2023  
+- Taught younger pupils how to use desktop computers  
+- Assisted students with a Maths application  
+- Performed basic troubleshooting  
+- Handled filing and administrative tasks  
+- Filled in for teachers when absent  
+
+### Library Assistant / Mentor  
+**Genadendal Library (YearBeyond – 1000 Stories)**  
+March 2022 – December 2022  
+- Assisted with aftercare programs  
+- Read stories and supported struggling learners  
+- Organized and sorted library books  
+- Managed book check-in and check-out system  
+
+---
+
+## References
+
+### Grace Present  
+- Occupation: Librarian  
+- Company: Theewaterskloof  
+- Email: grace.present44@gmail.com  
+- Contact: 0742294099  
+
+### Courtney Moodley  
+- Occupation: Mentor  
+- Company: YearBeyond  
+- Email: admin@yearbeyond.org  
+- Contact: 0631506103  
