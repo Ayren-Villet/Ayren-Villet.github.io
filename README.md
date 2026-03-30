@@ -1,4 +1,4 @@
-# Ayren-Villet.github.io
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">👩‍💻 <br>📚 I'm currently learning Java, JavaScript, Github and Software Development<br>🎯 Goals: My goal is to become a professional developer and build real-world applications<br>🎲 Fun fact:I fix one bug and create three more 😆</p>
+<p align="left">👩‍💻 I code with IntelliJ  <br>📚 I'm currently learning Java, JavaScript, Github and Software Development<br>🎯 Goals: My goal is to become a professional developer and build real-world applications<br>🎲 Fun fact: I fix one bug and create three more 😆</p>
 
 ###
 
