@@ -63,7 +63,7 @@ February 2023 – September 2023
 - Handled filing and administrative tasks  
 - Filled in for teachers when absent  
 
-### Library Assistant / Mentor  
+### Library Assistant   
 **Genadendal Library (YearBeyond – 1000 Stories)**  
 March 2022 – December 2022  
 - Assisted with aftercare programs  
