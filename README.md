@@ -9,6 +9,7 @@
 <h2 align="left">About me</h2>
 
 ###
+
 <p align="left">  <br>📚 I'm currently learning Java, JavaScript, Github and Software Development fundamentals <br> 🚀 I'm interested in becoming a full-stack developer in the future<br>
 🎯 My goal is to build useful applications and grow my coding skills every day<br>
 🧠 I enjoy figuring out how systems work and improving my problem-solving skills<br>🎲 Fun fact: I fix one bug and create three more 😆</p>
