@@ -89,7 +89,7 @@ March 2022 – December 2022
 
   ---
 
-## REFLECTION (STAR metthod)
+## REFLECTION (STAR method)
 ### Reflection on Coding in Markdown
 
 **Situation:**  
@@ -128,5 +128,6 @@ My task was to take my GitHub repository and successfully deploy it as a live we
 
 **Action:**  
 At first, I found the process challenging because I had never used GitHub Pages before. I struggled with understanding how to publish the site and make sure everything displayed correctly. I explored the settings, followed the required steps, and kept testing my link. When things did not work, I went back to fix errors and tried again until the site was successfully published.
-  
 
+**Results:**
+At the end I could freely work with Github pages with no errors and no confusion.
