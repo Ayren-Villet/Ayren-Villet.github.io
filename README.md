@@ -30,7 +30,7 @@ Groenberg Secondary School
 - UX/UI Design  
 - Microsoft Office
 <video width="600" controls>
-  <source src="CV/Ayren Interview(1).mp4" type="video/mp4">
+  <source src="CV/AyrenInterview(1).mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
