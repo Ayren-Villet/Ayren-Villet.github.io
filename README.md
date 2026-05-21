@@ -28,7 +28,11 @@ Groenberg Secondary School
 - Java  
 - SQL  
 - UX/UI Design  
-- Microsoft Office  
+- Microsoft Office
+<video width="600" controls>
+  <source src="video/Ayren Interview(1).mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Soft Skills
 - Communication  
