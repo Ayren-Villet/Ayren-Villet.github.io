@@ -519,10 +519,10 @@ The Sprint Backlog was used to divide the project into smaller and more manageab
 | Test backend functionality | High | Completed |
 | Test database integration | High | Completed |
 | Resolve identified errors | High | Completed |
-| Collect portfolio evidence | High | In Progress |
-| Complete portfolio reflections | High | In Progress |
-| Update GitHub Portfolio | High | In Progress |
-| Publish updated GitHub Pages portfolio | High | To Do |
+| Collect portfolio evidence | High | Completed |
+| Complete portfolio reflections | High | Completed |
+| Update GitHub Portfolio | High | Completed |
+| Publish updated GitHub Pages portfolio | High | Completed |
 
 ### Evidence
 
