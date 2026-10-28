@@ -148,7 +148,7 @@ This section presents my Agile Portfolio of Evidence for Project Presentation 3.
 The portfolio includes evidence and reflections for the following areas:
 
 - Agile Team Charter
-- User Stories and Tasks
+- [View GenConnect User Stories and Tasks Document](Evidence/GenConnect_User_Stories_and_Tasks.docx)
 - Product Backlog
 - Sprint Backlog
 - Agile Logbook
