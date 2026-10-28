@@ -226,7 +226,8 @@ A task is considered complete when:
 
 The following evidence demonstrates the planning and Agile practices used during the project:
 
-- Agile Team Charter documentation.
+
+- [View GenConnect Agile Project Charter](Evidence/GenConnect_Agile_Project_Charter.docx)
 - GitHub repository showing project development.
 - Project planning and development documentation.
 
