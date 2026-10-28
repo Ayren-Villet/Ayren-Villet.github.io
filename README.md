@@ -187,7 +187,6 @@ The project also allows me to apply the technical and project management skills 
 - MySQL
 - IntelliJ IDEA
 - GitHub
-- Trello
 
 ### Core Values
 
@@ -228,13 +227,11 @@ A task is considered complete when:
 The following evidence demonstrates the planning and Agile practices used during the project:
 
 - Agile Team Charter documentation.
-- Trello board showing project tasks and progress.
 - GitHub repository showing project development.
 - Project planning and development documentation.
 
 **Figure 1:** Agile Team Charter outlining the project's purpose, objectives, values and working agreements.
 
-**Figure 2:** Trello board showing the planning and management of project tasks.
 
 ### Reflection
 
@@ -346,12 +343,10 @@ As a user, I want access to contact information so that I can communicate when I
 
 The following evidence demonstrates how the project requirements were converted into user stories and development tasks:
 
-- Trello board showing user stories and individual tasks.
 - Completed GenConnect website pages.
 - GitHub repository containing the implemented functionality.
 - Backend REST API functionality supporting the user stories.
 
-**Figure 3:** Trello board showing GenConnect user stories and development tasks.
 
 **Figure 4:** GenConnect Businesses and Jobs functionality developed from the identified user stories.
 
@@ -402,9 +397,9 @@ The Product Backlog contains the features, improvements and technical tasks requ
 | PB25 | Improve website styling and layout | Medium | Completed |
 | PB26 | Create GenConnect logo and branding | Low | Completed |
 | PB27 | Fix identified bugs and errors | High | Completed |
-| PB28 | Organize project evidence for GitHub portfolio | High | In Progress |
-| PB29 | Complete portfolio reflections | High | In Progress |
-| PB30 | Publish updated portfolio using GitHub Pages | High | To Do |
+| PB28 | Organize project evidence for GitHub portfolio | High | Completed |
+| PB29 | Complete portfolio reflections | High | Completed |
+| PB30 | Publish updated portfolio using GitHub Pages | High | Completed |
 
 ### Prioritization
 
@@ -419,13 +414,11 @@ The Product Backlog contains the features, improvements and technical tasks requ
 The following evidence demonstrates how the Product Backlog was used to organize and prioritize the project requirements:
 
 - Product Backlog containing the main GenConnect requirements.
-- Trello board showing prioritized project tasks.
 - GitHub repository showing implementation of backlog items.
 - Completed GenConnect functionality representing completed backlog items.
 
 **Figure 5:** GenConnect Product Backlog showing prioritized development requirements.
 
-**Figure 6:** Trello board showing the progress of Product Backlog items.
 
 ### Reflection
 
@@ -526,15 +519,13 @@ The Sprint Backlog was used to divide the project into smaller and more manageab
 
 The following evidence demonstrates how the Sprint Backlog was used to organize and track project development:
 
-- Trello board showing tasks organized according to development stages.
 - Sprint tasks showing completed and outstanding work.
 - GitHub repository showing development progress.
 - Screenshots of completed application functionality.
 - Backend and database development evidence.
 
-**Figure 7:** Sprint Backlog showing tasks organized according to sprint goals.
+**Figure 6:** Sprint Backlog showing tasks organized according to sprint goals.
 
-**Figure 8:** Trello board demonstrating the movement of tasks through the development process.
 
 ### Reflection
 
@@ -698,17 +689,16 @@ The following evidence demonstrates my project activities and progress throughou
 - Solution Architecture documentation.
 - August Monthly Report and Register.
 - September Monthly Report and Register.
-- Trello project management evidence.
 - GitHub development history.
 - Project development and testing evidence.
 
-**Figure 9:** Agile Logbook documenting project activities and learning during July 2026.
+**Figure 8:** Agile Logbook documenting project activities and learning during July 2026.
 
-**Figure 10:** Business Model evidence showing project planning and entrepreneurial development.
+**Figure 9:** Business Model evidence showing project planning and entrepreneurial development.
 
-**Figure 11:** Solution Architecture evidence demonstrating the planned structure of the system.
+**Figure 10:** Solution Architecture evidence demonstrating the planned structure of the system.
 
-**Figure 12:** August and September monthly reports demonstrating continued project progress and reflection.
+**Figure 11:** August and September monthly reports demonstrating continued project progress and reflection.
 
 ### Overall Reflection
 
