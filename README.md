@@ -733,3 +733,65 @@ This Portfolio of Evidence demonstrates my development throughout the project, f
 The Agile Team Charter, User Stories and Tasks, Product Backlog, Sprint Backlog and Agile Logbook helped me organize the project and understand how Agile practices can be applied throughout the software development lifecycle.
 
 The project also provided practical experience in planning, problem-solving, documentation and software development. The knowledge and skills gained throughout this process will contribute to my future academic and professional development.
+
+
+
+---
+
+## GenConnect Project Screenshots
+
+The following screenshots provide visual evidence of the GenConnect community website, including its frontend pages, Spring Boot backend, MySQL database, and REST API integration.
+
+### 1. Homepage
+
+![GenConnect Homepage](Evidence/genconnect-homepage.png)
+
+The homepage introduces GenConnect and provides navigation to the main community services.
+
+### 2. Businesses Page
+
+![GenConnect Businesses](Evidence/genconnect-businesses.png)
+
+The Businesses page allows users to browse local businesses and use search and category filtering.
+
+### 3. Jobs Page
+
+![GenConnect Jobs](Evidence/genconnect-jobs.png)
+
+The Jobs page displays local job opportunities and provides search and filtering functionality.
+
+### 4. Events Page
+
+![GenConnect Events](Evidence/genconnect-events.png)
+
+The Events page provides information about community events.
+
+### 5. Announcements Page
+
+![GenConnect Announcements](Evidence/genconnect-announcements.png)
+
+The Announcements page displays community notices and updates.
+
+### 6. Contact Page
+
+![GenConnect Contact](Evidence/genconnect-contact.png)
+
+The Contact page provides a way for users to find community contact information.
+
+### 7. MySQL Database
+
+![GenConnect Database](Evidence/genconnect-database.png)
+
+The MySQL database stores the information used by the GenConnect application.
+
+### 8. Spring Boot Backend
+
+![GenConnect Backend](Evidence/genconnect-backend.png)
+
+The backend is developed using Java and Spring Boot, with controllers, services, repositories, and domain classes.
+
+### 9. REST API Integration
+
+![GenConnect API](Evidence/genconnect-api.png)
+
+The REST API provides data from the Spring Boot backend to the frontend.
