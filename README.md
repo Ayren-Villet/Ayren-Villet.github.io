@@ -147,11 +147,19 @@ This section presents my Agile Portfolio of Evidence for Project Presentation 3.
 
 The portfolio includes evidence and reflections for the following areas:
 
-- Agile Team Charter
 - [View GenConnect User Stories and Tasks Document](Evidence/GenConnect_User_Stories_and_Tasks.docx)
 - [View GenConnect Product Backlog Document](Evidence/GenConnect_Product_Backlog.docx)
 - [View GenConnect Sprint Backlog Document](Evidence/GenConnect_Sprint_Backlog.docx)
-- Agile Logbook
+
+### Agile Logbook Evidence
+
+- [21–24 July 2026](Evidence/Ayren%20Villet%20Logbook%2021-24%20July.docx)
+- [28–31 July 2026](Evidence/Ayren%20Villet%20Logbook%2028-31%20July.docx)
+- [4–7 August 2026](Evidence/Ayren%20Villet%20Logbook%204-7%20August.docx)
+- [11–14 August 2026](Evidence/Ayren%20Villet%20Logbook%2011-14%20August.docx)
+- [18–21 August 2026](Evidence/Ayren%20Villet%20Logbook%2018-21%20August.docx)
+- [25–28 August 2026](Evidence/Ayren%20Villet%20Logbook%2025-28%20August.docx)
+- [1–4 September 2026](Evidence/Ayren%20Villet%20Logbook%201-4%20September.docx)
 
 ---
 
