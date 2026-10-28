@@ -149,7 +149,7 @@ The portfolio includes evidence and reflections for the following areas:
 
 - Agile Team Charter
 - [View GenConnect User Stories and Tasks Document](Evidence/GenConnect_User_Stories_and_Tasks.docx)
-- Product Backlog
+- [View GenConnect Product Backlog Document](Evidence/GenConnect_Product_Backlog.docx)
 - Sprint Backlog
 - Agile Logbook
 
