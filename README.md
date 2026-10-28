@@ -554,11 +554,17 @@ Overall, using sprints improved the way I approached the project. It encouraged 
 
 ---
 
-## 5. Agile Logbook
+### Section 5: Agile Logbook Reflection
 
-The Agile Logbook was used to document my project activities, progress, challenges and learning throughout the Work Integrated Learning project.
+Throughout the development of GenConnect, I used Agile logbooks to document my progress, planned activities, completed tasks, and challenges. The logbooks helped me organise my work into manageable stages and monitor the development of the website.
 
-It provides a record of how the project progressed from initial planning and requirements through business planning, solution architecture, development and reporting.
+During July, I focused on identifying community needs, developing the GenConnect concept, gathering requirements, and planning the website structure. In August, I progressed to developing the frontend using HTML, CSS, and JavaScript. I worked on the homepage, navigation, Businesses, Jobs, Events, Announcements, and Contact pages.
+
+As development progressed, I began planning the backend architecture using Java, Spring Boot, and MySQL. This introduced new challenges, particularly understanding how the frontend, REST APIs, backend services, and database would communicate.
+
+One of the most important lessons I learned was the value of breaking a large project into smaller tasks. Working independently required me to manage my time carefully, prioritise features, and solve technical problems without relying on other team members.
+
+The Agile logbooks helped me reflect on what I had accomplished, identify areas requiring improvement, and plan my next development activities. Overall, this process improved my technical knowledge, problem-solving abilities, time management, and understanding of Agile project management.
 
 ### July 2026
 
